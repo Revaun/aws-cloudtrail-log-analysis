@@ -1,0 +1,7 @@
+{
+  "TrailName": "SecurityTrail",
+  "IncludeGlobalServiceEvents": true,
+  "IsMultiRegionTrail": true,
+  "EnableLogFileValidation": true,
+  "S3BucketName": "cloudtrail-log-storage-secure"
+}
