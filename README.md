@@ -36,41 +36,30 @@ Snapshots are included to provide recruiter‑ready proof of setup, security pol
 ![Repo Structure](snapshots/repo_structure.png)  
 *Organized project structure with setup, policies, analysis script, and snapshots.*
 
-### README Preview
-![README Preview](snapshots/readme_preview.png)  
-*Recruiter‑ready README with setup steps and project summary.*
+## 🚀 How to Run
+1. Clone the repo:  
+   git clone https://github.com/<your-username>/aws-cloudtrail-log-analysis.git
 
-🚀 How to Run
+2. Navigate into the folder:  
+   cd aws-cloudtrail-log-analysis/log-analysis
 
-    Clone the repo:
-    git clone https://github.com/<your-username>/aws-cloudtrail-log-analysis.git
+3. Run the script with a sample log file:  
+   python suspicious_activity_checker.py
 
-    Navigate into the folder:
-    cd aws-cloudtrail-log-analysis/log-analysis
+---
 
-    Run the script with a sample log file:
-    python suspicious_activity_checker.py
+## 🛠 Skills Demonstrated
+- AWS CloudTrail  
+- AWS S3  
+- Log Analysis  
+- Python  
+- Cloud Security  
 
-🛠 Skills Demonstrated
+---
 
-    AWS CloudTrail
-
-    AWS S3
-
-    Log Analysis
-
-    Python
-
-    Cloud Security
-
-🎯 Value
-
+## 🎯 Value
 This project highlights practical cloud security monitoring skills:
-
-    Configuring secure logging with CloudTrail
-
-    Enforcing least‑privilege policies in S3
-
-    Detecting suspicious activity with Python analysis
-
-    Presenting proof snapshots in a clean, professional repo
+- Configuring secure logging with CloudTrail  
+- Enforcing least‑privilege policies in S3  
+- Detecting suspicious activity with Python analysis  
+- Presenting proof snapshots in a clean, professional repo
