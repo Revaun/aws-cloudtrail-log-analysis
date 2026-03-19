@@ -40,9 +40,7 @@ Snapshots are included to provide recruiter‑ready proof of setup, security pol
 ![README Preview](snapshots/readme_preview.png)  
 *Recruiter‑ready README with setup steps and project summary.*
 
-
-
-##🚀 How to Run
+🚀 How to Run
 
     Clone the repo:
     git clone https://github.com/<your-username>/aws-cloudtrail-log-analysis.git
@@ -53,7 +51,7 @@ Snapshots are included to provide recruiter‑ready proof of setup, security pol
     Run the script with a sample log file:
     python suspicious_activity_checker.py
 
-##🛠 Skills Demonstrated
+🛠 Skills Demonstrated
 
     AWS CloudTrail
 
@@ -65,7 +63,7 @@ Snapshots are included to provide recruiter‑ready proof of setup, security pol
 
     Cloud Security
 
-##🎯 Value
+🎯 Value
 
 This project highlights practical cloud security monitoring skills:
 
@@ -75,3 +73,4 @@ This project highlights practical cloud security monitoring skills:
 
     Detecting suspicious activity with Python analysis
 
+    Presenting proof snapshots in a clean, professional repo
